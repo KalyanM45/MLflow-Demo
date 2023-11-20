@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KALYAN/Desktop/DVC%20Demo/mlruns/0/3d025eb6840540d6a7c95c216cbe3b63/artifacts
+end_time: 1700477511510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d025eb6840540d6a7c95c216cbe3b63
+run_name: valuable-loon-250
+run_uuid: 3d025eb6840540d6a7c95c216cbe3b63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700477511480
+status: 3
+tags: []
+user_id: KALYAN

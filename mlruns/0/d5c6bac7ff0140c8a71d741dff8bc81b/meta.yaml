@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KALYAN/Desktop/DVC%20Demo/mlruns/0/d5c6bac7ff0140c8a71d741dff8bc81b/artifacts
+end_time: 1700477408962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5c6bac7ff0140c8a71d741dff8bc81b
+run_name: bemused-cow-628
+run_uuid: d5c6bac7ff0140c8a71d741dff8bc81b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700477408922
+status: 3
+tags: []
+user_id: KALYAN
